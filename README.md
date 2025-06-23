@@ -12,7 +12,7 @@ Le projet Get Next Line (GNL) consiste à implémenter une fonction qui permet d
 ## Installation
 
 ```bash
-git clone https://github.com/sbr93z/get_next_line.git
+git clone git@github.com:sferrad/Get_Next_Line.git
 ```
 Utilisation
 
